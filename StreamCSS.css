@@ -23,7 +23,8 @@ span {
 
 html,
 body {
-    
+    background-size: cover;
+    height: 500px;
     background-image: url(https://i.postimg.cc/fRwKk95p/20240518-162840.jpg);
 }
 
